@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Estudiar Python",
+        "completed": false,
+        "date": "2025-06-29",
+        "topic": "Programacion"
+    },
+    {
+        "title": "Estudiar Algebra",
+        "completed": false,
+        "date": "2025-03-09",
+        "topic": "Matematixas"
+    }
+]
